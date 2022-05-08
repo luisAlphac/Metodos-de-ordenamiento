@@ -1,0 +1,15 @@
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\bin\Debug\net6.0\Metodos_De_Ordenamiento.exe
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\bin\Debug\net6.0\Metodos_De_Ordenamiento.deps.json
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\bin\Debug\net6.0\Metodos_De_Ordenamiento.runtimeconfig.json
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\bin\Debug\net6.0\Metodos_De_Ordenamiento.dll
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\bin\Debug\net6.0\Metodos_De_Ordenamiento.pdb
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.dll
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\refint\Metodos_De_Ordenamiento.dll
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.pdb
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\Metodos_De_Ordenamiento.genruntimeconfig.cache
+C:\Users\juanp\source\repos\Metodos_De_Ordenamiento\Metodos_De_Ordenamiento\obj\Debug\net6.0\ref\Metodos_De_Ordenamiento.dll
